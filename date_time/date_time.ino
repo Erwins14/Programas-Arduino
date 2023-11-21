@@ -4,8 +4,8 @@
 #include <WiFiUdp.h>
 
 // Replace with your network credentials
-#define WIFI_SSID "CLARO_rjNxKd"
-#define WIFI_PASSWORD "C22DCDCC1D"
+#define WIFI_SSID "xxxxxxxxx"
+#define WIFI_PASSWORD "xxxxxxxx"
 
 // Define NTP Client to get time
 WiFiUDP ntpUDP;
