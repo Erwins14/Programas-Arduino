@@ -6,14 +6,14 @@
 #include <MFRC522.h>
 
 // Configura tu red WiFi y los datos de Firebase
-#define DATABASE_URL "esp8266-ceb36-default-rtdb.firebaseio.com"
-#define API_KEY "AIzaSyAaApo7cviHp2gG-7YnhNCCz9vaUThu1x4"
-#define WIFI_SSID "CLARO_rjNxKd"
-#define WIFI_PASSWORD "C22DCDCC1D"
+#define DATABASE_URL "xxxxxxxxxxxx"
+#define API_KEY "xxxxxxxxxxx"
+#define WIFI_SSID "xxxxxxxxxx"
+#define WIFI_PASSWORD "xxxxxxxxx"
 
 /* Define el correo electrónico y la contraseña del usuario que ya se ha registrado en tu proyecto */
-#define USER_EMAIL "erwins1414@gmail.com"
-#define USER_PASSWORD "UMG2023"
+#define USER_EMAIL "xxxxxxxxx"
+#define USER_PASSWORD "xxxxxxxx"
 
 /* Define la estructura de configuración de Firebase */
 FirebaseConfig config;
